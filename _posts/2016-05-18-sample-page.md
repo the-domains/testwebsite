@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Sample Page
-datePublished: '2016-05-18T12:08:10.972Z'
-dateModified: '2016-05-18T12:08:01.726Z'
+datePublished: '2016-05-18T12:10:37.390Z'
+dateModified: '2016-05-18T12:10:36.810Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-18-sample-page.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-18-sample-page.md
 url: sample-page/index.html
 _type: Article
 
