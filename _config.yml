@@ -1,7 +1,7 @@
 name: testwebsite
 favicon: null
-layout_spectrum: 0.7739737557712942
-typography_spectrum: 0.9123686903622001
+layout_spectrum: 0.25141
+typography_spectrum: 0.32488
 title: website TITLE
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.9468145808205009
-  lightness: 0.19673995510675013
-  saturation: 0.3306431456003338
-  rhythmicContrast: 0.5420141227077693
+    - '#eee8d2'
+    - '#161c1c'
+    - '#3b523e'
+    - '#65767d'
+    - '#9f9780'
+  brandStrength: 0.8125
+  lightness: 1
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
